@@ -7,7 +7,8 @@
 - 🛠️ [Requirements and Installation](#requirements-and-installation)
 - 💥 [Inference](#inference)
 - 🤖 [Evaluation](#evaluation)
-# 🔔 News <a id="news"></a>
+  
+## 🔔 News <a id="news"></a>
 
 - **[2026.02.03]** We release the MMKU-Bench dataset at 🤗 [Huggingface Dataset](https://huggingface.co/datasets/baochenfu/MMKU-Bench).
 - **[2026.02.02]** Code is available now!
