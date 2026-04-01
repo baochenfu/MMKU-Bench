@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <h1>MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge</h1>
 
@@ -13,6 +13,16 @@
     <img src="https://img.shields.io/badge/github-MMKU-blue?logo=github&logoColor=white" style="border:0;">
   </a>
 </p>
+
+</div> -->
+
+<div align="center">
+
+# MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge
+
+[![arXiv](https://img.shields.io/badge/arXiv-2603.15117-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.15117)
+[![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKU-f59e0b)](https://huggingface.co/datasets/baochenfu/MMKU-Bench)
+[![GitHub](https://img.shields.io/badge/github-MMKU-blue?logo=github&logoColor=white)](https://github.com/baochenfu/MMKU-Bench)
 
 </div>
 
