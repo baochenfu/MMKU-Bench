@@ -3,16 +3,15 @@
 <h1>MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge</h1>
 
 <p>
-  <a href="https://arxiv.org/pdf/2603.15117">
-    <img src="https://img.shields.io/badge/arXiv-2603.15117-b31b1b.svg">
+  <a href="https://arxiv.org/abs/2603.15117">
+    <img src="https://img.shields.io/badge/Arxiv-2603.15117-red?style=for-the-badge&logo=arxiv&logoColor=white">
   </a>
   <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench">
-    <img src="https://img.shields.io/badge/🤗%20Dataset-HuggingFace-yellow">
+    <img src="https://img.shields.io/badge/🤗%20Dataset-MMKU--Bench-blue?style=for-the-badge">
   </a>
 </p>
 
 </div>
-
 
 
 ## Table of Contents
