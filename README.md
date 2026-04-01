@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://arxiv.org/pdf/2603.15117">
-    <img src="https://img.shields.io/badge/arXiv-2401.12345-b31b1b.svg">
+    <img src="https://img.shields.io/badge/arXiv-2603.15117-b31b1b.svg">
   </a>
   <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench">
     <img src="https://img.shields.io/badge/🤗%20Dataset-HuggingFace-yellow">
