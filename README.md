@@ -3,23 +3,18 @@
 <h1>MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge</h1>
 
 <p>
-  <a href="https://arxiv.org/abs/2603.15117" style="text-decoration:none;">
+  <a href="https://arxiv.org/abs/2603.15117" style="text-decoration:none; display:inline-block;">
     <img src="https://img.shields.io/badge/arXiv-2603.15117-b31b1b?logo=arxiv&logoColor=white">
   </a>
-  <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench" style="text-decoration:none;">
+  <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench" style="text-decoration:none; display:inline-block;">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKU-f59e0b">
   </a>
-  <a href="https://github.com/baochenfu/MMKU-Bench" style="text-decoration:none;">
+  <a href="https://github.com/baochenfu/MMKU-Bench" style="text-decoration:none; display:inline-block;">
     <img src="https://img.shields.io/badge/github-MMKU-blue?logo=github&logoColor=white">
   </a>
 </p>
 
 </div>
-
-<p align="center">
-  <a href="https://arxiv.org/abs/2603.15117" style="text-decoration:none;"><img src="https://img.shields.io/badge/arXiv-2603.15117-b31b1b?logo=arxiv&logoColor=white"></a><a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench" style="text-decoration:none;"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKU-f59e0b"></a><a href="https://github.com/baochenfu/MMKU-Bench" style="text-decoration:none;"><img src="https://img.shields.io/badge/github-MMKU-blue?logo=github&logoColor=white"></a>
-</p>
-
 
 ## Table of Contents
 - 🔔 [News](#news)
