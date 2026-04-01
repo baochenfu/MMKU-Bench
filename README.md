@@ -1,9 +1,17 @@
-# MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge
+<div align="center">
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.12345-b31b1b.svg)](https://arxiv.org/pdf/2603.15117)
-[![Dataset](https://img.shields.io/badge/🤗%20Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/baochenfu/MMKU-Bench)
+<h1>MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge</h1>
 
+<p>
+  <a href="https://arxiv.org/pdf/2603.15117">
+    <img src="https://img.shields.io/badge/arXiv-2401.12345-b31b1b.svg">
+  </a>
+  <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench">
+    <img src="https://img.shields.io/badge/🤗%20Dataset-HuggingFace-yellow">
+  </a>
+</p>
 
+</div>
 
 
 
