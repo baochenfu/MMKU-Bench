@@ -4,10 +4,13 @@
 
 <p>
   <a href="https://arxiv.org/abs/2603.15117">
-    <img src="https://img.shields.io/badge/Arxiv-2603.15117-red?style=for-the-badge&logo=arxiv&logoColor=white">
+    <img src="https://img.shields.io/badge/arXiv-2603.15117-b31b1b?logo=arxiv&logoColor=white">
   </a>
   <a href="https://huggingface.co/datasets/baochenfu/MMKU-Bench">
-    <img src="https://img.shields.io/badge/🤗%20Dataset-MMKU--Bench-blue?style=for-the-badge">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKU-f59e0b">
+  </a>
+  <a href="https://github.com/baochenfu/MMKU-Bench">
+    <img src="https://img.shields.io/badge/github-MMKU-blue?logo=github&logoColor=white">
   </a>
 </p>
 
