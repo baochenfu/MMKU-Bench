@@ -18,7 +18,7 @@
 
 <div align="center">
 
-# MMKU-Bench: A Multi modal Update Benchmark for Diverse Visual Knowledge
+# MMKU-Bench: A Multimodal Update Benchmark for Diverse Visual Knowledge
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.15117-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.15117)
 [![Dataset](https://img.shields.io/badge/%F0%9F%A4%97%20Dataset-MMKU-f59e0b)](https://huggingface.co/datasets/baochenfu/MMKU-Bench)
